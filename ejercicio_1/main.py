@@ -1,4 +1,4 @@
-import funciones 
+import ejercicio_1.funciones as funciones 
 
 registros_crudos = [
     {"sensor_id": " SENSOR-001 ", "temperatura": "24.5C", "ubicacion": "Planta Norte"},
