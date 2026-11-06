@@ -2,7 +2,7 @@ import re
 import statistics
 
 def limpiar_registro_lector(regitro_raw: dict)-> dict:
-    """Rcibe un dict con datos que pueden venir sucios o incompletos, y devuelve un dict estadarizado y limpio."""
+    """Recibe un dict con datos que pueden venir sucios o incompletos, y devuelve un dict estadarizado y limpio."""
     sensor_id = regitro_raw.get("sensor_id", "").strip()
 
     temperatura_raw = str(regitro_raw.get("temperatura", ""))

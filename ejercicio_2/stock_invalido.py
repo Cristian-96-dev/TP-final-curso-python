@@ -1,0 +1,2 @@
+class StockInvalidoError(Exception):
+    pass

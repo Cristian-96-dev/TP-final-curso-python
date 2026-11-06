@@ -1,0 +1,14 @@
+[
+    {
+        "_stock": 20,
+        "precio": 350000.0,
+        "ficha_tecnica": "El producto no tiene asignado una ficha técnica.",
+        "detalle_tecnico": "80000 W/h"
+    },
+    {
+        "_stock": 30,
+        "precio": 300000,
+        "ficha_tecnica": "El producto no tiene asignado una ficha técnica.",
+        "detalle_tecnico": "85000 W/h"
+    }
+]

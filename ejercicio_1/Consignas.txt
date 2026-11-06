@@ -11,3 +11,5 @@ Tareas
 1-Crear funcion: limpiar_registro_lector(registro_raw)->"Recibe un diccionario con datos crudos y retornar un diccionario estandarizado.":
 2-Crear funcion: generar_resumen_sensores(lista_sensores_limpios, umbral_temperatura)->"Retorna una tupla(lista_sensores_alerta, promedio_temperatura) con los IDs de los dispositivos que superan el umbral de la estipulado y el promedio termico global de la planta."
 3-Crear bloque de ejecucion en el modulo main.
+
+Este no se sube.
